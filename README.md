@@ -4,10 +4,8 @@ Feel free to use this script on your own masterserver.
 Note that this script won't work out of the box!
 It is currently configured to work with the belgian masterserver only.
 ##Installation
-'''
-npm install
-node texts.js
-'''
+```npm install
+node texts.js```
 ##Messages
 ###Help
 Sends a message with all available commands
