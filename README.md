@@ -19,9 +19,13 @@ Uses the Yahoo Query Language to request the weather for a specific location.
 ##Usage
 All messages have to be sent to the local masterserver. This means that the id should be XXX990 having XXX as DMR countrycode.
 
+##Dependencies
+You will need to install certain dependencies that are needed to execute this script
+I advise you to use npm for this.
+All dependencies can be found at the top of the script.
+
 ##Disclaimer
 At the moment only support for hytera terminals has been tested.
 It is known that the Connect Systems CS700 has issues with the usage of this service.
-
 Comments, improvements, something else! Use the git, that's what it's for! :-)
 Tags: hamr, hamradio, BrandMeister, BM, BM206, ON3YH, HAM-DMR, DMR, Hytera, Motorola, Connect Systems
