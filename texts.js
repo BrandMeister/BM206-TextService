@@ -1,10 +1,8 @@
 /*
  * Config
  */
-var syslog = require('node-syslog');
 var mqtt = require('mqtt');
 var mysql = require('mysql');
-var path = require('path');
 var iconv = require('iconv-lite');
 var YQL = require('yql');
 
