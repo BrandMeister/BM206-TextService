@@ -1,0 +1,7 @@
+{ "name" : "BM206-TextService"
+, "version" : "1.0.0"
+, "dependencies" : { "mqtt": ""
+, "mysql": "",
+, "yql": ""
+, "iconv-lite": ""}
+}
