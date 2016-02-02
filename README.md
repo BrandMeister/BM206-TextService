@@ -7,13 +7,13 @@ It is currently configured to work with the belgian masterserver only.
 ##Messages
 ###Help
 Sends a message with all available commands
-###Info <repeater>
+###Info [repeater]
 Selects all info from the mysql database (if you don't have a custom repeater database in your country you can delete this text or modify it however you like).
-###Whois <dmr id or callsign>
+###Whois [dmr id or callsign]
 Selects the info of a specific user from the database and returns it in a text.
 NOTE: for this you need a database containing all DMR users.
 The script that is being used to create this database table in Belgium will be released as soon as possible.
-###WX <location>
+###WX [location]
 Uses the Yahoo Query Language to request the weather for a specific location.
 
 ##Disclaimer
