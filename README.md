@@ -16,6 +16,9 @@ The script that is being used to create this database table in Belgium will be r
 ###WX [location]
 Uses the Yahoo Query Language to request the weather for a specific location.
 
+##Usage
+All messages have to be sent to the local masterserver. This means that the id should be XXX990 having XXX as DMR countrycode.
+
 ##Disclaimer
 At the moment only support for hytera terminals has been tested.
 It is known that the Connect Systems CS700 has issues with the usage of this service.
